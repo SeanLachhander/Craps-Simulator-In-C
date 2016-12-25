@@ -1,7 +1,6 @@
 /* This C program will simulate the game of craps
  * Sean Lachhander
  * February 23, 2016
- * Lab 4
  */
 
 #include <stdio.h>
